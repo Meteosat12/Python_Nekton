@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../data/rd_exchange/asauvebois"
+		},
+		{
+			"path": "../../../../data/rd_exchange/salbernhe/data/acoustics"
+		},
+		{
+			"path": "../../../../data/rd_exchange/salbernhe/provinces"
+		}
+	],
+	"settings": {}
+}
